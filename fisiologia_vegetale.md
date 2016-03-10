@@ -558,7 +558,7 @@ Questa reazione è catalizzata dall'enzima del cloroplasto ribulosio-1,5-bisfosf
 
 **3 rubisco + 3 CO$_2$ + 3 H$_2$O $\leftrightarrow$ 6 3-fosfoglicerato + 6 H$^+$**
 
-3CO2 + 3 Ru 1,5B $\leftrightarrow$ 6 PGA
+3CO$_2$ + 3 Ru 1,5B $\leftrightarrow$ 6 PGA
 3 C + 15 C (= 18) $\leftrightarrow$ 6 (x3) (= 18)
 
 Nella prima reazione parziale, un H$^+$ è estratto dal carbonio in 3 del ribulosio 1,5-BisP. 
