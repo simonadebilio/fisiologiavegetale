@@ -524,32 +524,124 @@ Ad esempio:
 + piante di abete bianco trattate con gibberelline presentano gemme laterali che si trasformano in coni femminili;
 + l'uva Thompson, un'uva senza semi poichè questi vanno incontro ad aborto spontaneo e quindi il frutto smette di crescere, se trattata con gibberellina presenta frutti che continuano a svilupparsi anche quando l'embrione è abortito.
 
-Le gibberelline vengono sintetizzate lungo la *via degli isopreni*. 
+Le gibberelline vengono sintetizzate lungo la *via dei terpenoidi*. 
 
-In realtà le piante hanno due modi x fare gli isopreni:
-Uno dipende dall’acido mevalonico MVA con enzimi quasi tutti citoplasmatici;
-La seconda via MEP dell’eritrosio fosfato è attiva solo nei cloroplasti con enzimi quasi tutti residenti nei plastidi. 
-Mentre la via di sintesi delle auxine è semplice e richiede 3 enzimi, quella delle gibberelline richiede circa 20 enzimi ognuno dei quali ha un proprio sito nella via. La via di sintesi viene in genere distinta in 3 stadi:
-Stadio 1 porta alla sintesi del nucleo di base delle gibberelline. Contiene 4 anelli e si chiama ent- caurene.
-Queste reazioni avvengono nei plastidi
-Stadio 2 reazioni di idrossilazione a livello del reticolo endoplasmatico
-Stadio 3 eventi che avvengono nel citoplasma enzimi che idrossilano monossidasi che sostituiscono l’anello il quale viene rifinito nel citoplasma.
-Ci sono degli enzimi ossidasi che inattivano le gibberelline irreversibilmente. Quindi il numero di queste dipende da quante ne vengono ossidate e modificate. Possono essere coniugate con zuccheri e le molecole on sono più attive dal punto di vista biologico ma lo diventano quando sono idrolizzate quindi è un’inattivazione reversibile a differenza di quelle ossidate.
-Ci sono mutanti che hanno lesioni con enzimi per la sintesi dello scheletro della gibberellina. Sono tutti mutanti nani. Se i mutanti li tratto con gibberellina esogena crescono e così sono stati studiasti tutti i mutanti. Tanto prima nella via si sintesi è la mutazione tanto più marcato è il fenotipo osservato.
+I terpenoidi sono composti da unità isopreniche a 5 atomi di C unite testa-coda. Le GA sono *diterpeni* formati da 4 unità isopreniche che in origine sono assemblate a formare una molecola lineare a 20 atomi di C, il **geranilgeranil difosfato (GGPP)**. La conversione del GGPP nella prima GA, la GA$_1$$_2$, è praticamente simile in tutte le specie vegetali studiate finora.
 
-C’è un secondo tipo di mutanti che non possono essere recuperati i fenotipi neanche quando i mutanti vengono trattati con gibberellina esogena. Ci sono quindi i mutanti nani e seminani che hanno problemi nella sintesi della gibberellina e poi questi che trattati con la gibberellina esogena non crescono. Se la prima è un problema della quantità nella seconda abbiamo un problema diverso: ovvero la via di trasduzione del segnale ma può essere un problema o di recettore o di regolazione.
-I recettori per le gibberelline sono i GID.
-Da osservazioni sul riso sono stati trovati mutanti insensibili alla gibberellina esogena. Chiamato Gibberellinig insensitive. Questo gene è stato trovato un omologo in Arabidoxis che di queste sequenze GID ne ha 3 GID1 A- GID1B- GID1C sono i recettori x le gibberelline. Avere 3 geni che codificano x 3 proteine che fanno la stessa cosa fa vedere che mutandone 1 ne ho altri due che funzionano o 1 e questo è sufficiente per non far mostrare nessun fenotipo, anche se mutando B riesco a vedere qualche fenotipo. Se ho 3 mutazioni non vedo nessuna crescita. Con il triplo mutande (mutando 3 geni) ci dice che non c’è nessun recettore per le gibberelline e la pianta è molto piccola neanche in grado di fare i fioriMUTANTE LETALE.
-Questi piccoli mutanti di riso e Arabidoxis hanno permesso di identificare la proteina GID è stata molto studiata e cristallizzata. I cristalli ci permettono di capire come una molecola è disposta nello spazio con al lunghezza d’onda: più corta è la radiazione più grande è la risoluzione. Studiando come il fascio di elettroni vengono deviata dalla presenza di una proteina ottengo l’immagine di diffrazione della proteina e da questo studio permette di risalire a com’è fatto l’oggetto. 
-GID 1° ha un certo numero di eliche formando una sorta di barile con una cavità interna, e una sorta di ansa. La cavità interna è stato visto che è il luogo dove vanno a finire le gibberelline legate da GID e la possibilità di entrare dipende dall’interazione tra i residui amminoacidici e le molecole presenti sulla proteina.
-Questo induce un cambio conformazionale nella proteina quando gibberellina entra nel sito di legame la regione N terminale di GID fa una sorta di flip-flop e cambia conformazione andando a chiudere la cavità. 
+La via biosintetica delle GA può essere suddivisa in 3 stadi, ognuno presente in uno scomparto cellulare differente: il plastidio, il reticolo endoplasmatico e il citosol.
 
-La famiglia di proteine GRAS hanno una sottofamiglia di proteine DELLA e le troviamo al di fuori di questa cavità. Fa interagire N terminale con GID e quando GID si chiude espone una parte che si lega a 1 GRAS e 1 DELLA. GRAS può interagire con le proteine F BOX.  Con l’interazione di GID1 si attiva il substrato GRAS con F BOX diverso da quello dell’auxina ma capace di riconoscere GRAS e come conseguenza ha la poli glutamminazione di GRAS  e come conseguenza la rimozione di DELLA- GRAS.
-DELLA- GRAS sono repressori, regolatori negativi della trascrizione e la loro inibizione porta alla rimozione dei repressori della trascrizione. DELLA- GRAS può interagire con tantissimi fattori. 
-Auxine e gibberelline rimuovono i fattori della trascrizione
-Le gibberelline hanno un ruolo nella germinazione dei semi nelle monocotiledoni. Si è studiato il processo di di-germinazione: i cereali accumulano come sostanza di riserva nell’endosperma i carboidrati sotto forma di amido. Per far germinare un seme bisogna ri- idratarlo per favorire la ricostruzione delle membrane, alcuni sono foto plastici e hanno bisogno della luce, altri afotoblastici germinano sotto terra. I semi delle monocotiledoni sono fotblastici. Quando un seme è messo nelle condizioni giuste per germinare si forma una radichetta e un fusticino. L’embrione allo stato crescente nel seme è il primo che riacquista attività e c’è una struttura chiamata SCUTELLO che connette l’embrione con l’endosperma (parte che contiene le riserve). 
-Le gibberelline hanno un ruolo fondamentale: l’embrione secerne GA3 che ha come bersaglio delle cellule dell’aneurone che contengono i recettori per le gibberelline. In seguito a questo le gibberelline si legano a GID che si chiude e espongono la regine che si lega con DELLA- GRAS e rimossi repressori GAMIB che porta alla sintesi di amilasi, enzimi che degradano l’amido. Le amilasi vengono secrete nell’endosperma. In questa farse le gibberelline mobilitano le riserve di glucosio. L’amilosio poi viene riassorbito e serve come riserva di zucchero. Le proteine DELLA- GRAS vengono rimosse e permettono l’espressione dei geni GAMIB che codificano per altri fattori di trascrizione e promuovono geni che codificano per le amilasi. 
-DELLA- GRAS sono un punto di legame tra le vie di trasduzione della gibberellina e le vie di trasduzione del fitocromo.
+## Stadio 1: produzione di precursori terpenici nei plastidi
+
+L'unità biologica isoprenica di base è l'**isopentenil difosfato (IPP)**.
+
+Nelle piante l'IPP può essere sintetizzato nel citosol o nello stroma dei plastidi, usando in ogni sito precursori differenti.
+
+La *via citosolica* utilizza *acetato* ed è definita **via dell'acido mevalonico (MVA)** dal nome dell'intermedio, l'acido mevalonico. Questa via utilizza quasi tutti enzimi citoplasmatici ed è l'unica via che opera nella biosintesi di terpenoidi nei funghi e negli animali.
+
+La *via plastidiale* presente nelle parti verdi delle piante e nelle alghe utilizza la *gliceraldeide 3-fosfato* e il piruvato e anche in questo caso la via prende ilnome da un composto intermedio, il **metil eritritolo fosfato (MEP)**. Questa via è attiva solo nei cloroplasti e utilizza enzimi quasi tutti residenti nei plastidi.
+
+(immagine p823)
+
+Una volta sintetizzate, le unità a 5 atomi di C condensano per produrre intermedi a 10 atomi di C (geranil difosfato, GPP), 15 atomi di C (farnesil difosfato, FPP) e 20 atomi di C (geranilgeranil difosfato, GGPP).
+
+Nella maggior parte delle piante, è solo dopo il GGPP che la via porta alla biosintesi di GA.
+
+Esistono 2 reazioni di ciclizzazione che convertono il GGPP lineare in **ent-caurene**.
+
+La formazione di un intermedio biciclico, *ent-copalyl difosfato (CPP)*, è catalizzata dalla *ent-copalil difosfato sintasi (CPS)*, e la conversione del CPP nel composto tetraciclico ent-caurene è catalizzata dalla *ent-caurene sintasi (KS)*.
+
+## Stadio 2: reazioni di ossidazione nell'ER
+
+Queste reazioni avvengono nella membrana plastidiale e nel reticolo endoplasmatico.
+
+Nel secondo stadio della biosintesi delle GA, il gruppo metile in C-19 del caurene è ossidato in 3 passaggi per dare l'*acido ent-caurenico (KA)*.
+L'acido caurenico è poi ossidato nel C-7 e nel C-6 in due passaggi per dare la **GA$_1$$_2$-aldeide**. Questa è poi ossidata a **GA$_1$$_2$**. che è la prima GA che viene formata e quindi rappresenta il precursore di tutte le altre GA.
+
+Due enzimi importanti in questa parte della via sono la *ent-caurene ossidasi (KO)* e la *acido ent-caurenoico ossidasi (KAO)*.
+
+Tutti gli enzimi coinvolti nella seconda fase della biosintesi delle GA sono **monossigenasi** che utilizzano il citocromo P450 nelle loro reazioni e che sono tipicamente associati alle membrane.
+
+## Stadio 3: le gibberelline derivanti dalla GA$_1$$_2$ sono prodotte nel citosol
+
+Questo stadio avviene nel citosol, e la GA$_1$$_2$ è prima convertita da una serie di reazioni ossidative in altre C$_2$$_0$-GA e poi nelle C$_1$$_9$-GA, comprese le GA bioattive.
+
+Tutti i passaggi successivi a partire dalla GA$_1$$_2$ sono portati a termine da un gruppo di **diossigenasi** solubili nel citosol. Questi enzimi necessitano come substrato il 2-oxoglutarato e l'ossigeno molecolare, e inoltre utilizzano Fe$^2$$^+$ e ascorbato come cofattori.
+
+I passaggi specifici nella modificazione della GA$_1$$_2$ variano da specie a specie e fra gli organi della stessa specie.
+
+(immagini p826)
+ 
+Esistono degli enzimi ossidasi che inattivano le gibberelline in maniera irreversibile.
+
+Quindi il numero di gibberelline dipende da quante vengono ossidate e modificate. 
+In alcuni case le GA possono essere coniugate con zuccheri e in questo modo non sono più attive dal punto di vista biologico, ma tornato attive quando sono idrolizzate. Questo è un tipo di inattivazione reversibile (a differenza di quella operata tramite ossidazione).
+
+Esistono fenotipi mutanti che presentano delle "lesioni" causate da alcuni enzimi durante la sintesi dello scheletro delle GA. Questi sono tutti mutanti nani che, se trattati con gibberellina esogena, possono recuperare il fenotipo originario.
+Tanto prima avviene la mutazione nella via di sintesi, tanto più marcato è il fenotipo mutante osservato.
+
+Esiste poi un secondo tipo di piante mutanti nelle quali il fenotipo originario non può essere recuperato neanche tramite somministrazione di GA esogena. In questi mutanti il problema non risiede nella sintesi delle GA, ma nella via di trasduzione del segnale (può essere un problema di recezione del segnale o di regolazione dello stesso).
+
+
+Una conquista importante nella comprensione della trasduzione del segnale delle GA è giunta con la caratterizzazione di un mutante nano recessivo di riso, denominato **GA-insensitive dwarf1 (gid1)**. L'allele del ceppo selvatico codifica per una proteina globulare, **GID1**, che è un *recettore di GA*.
+
+Per essere identificara come un recettore, una proteina deve soddisfare i seguenti criteri:
+
++ il legame del ligando (in questo caso GA) con la proteina deve essere *specifico*. Questo significa che ci si aspetta che le GA bioattive si leghino a GID1 con una maggiore affinità di quelle meno attive;
++ il legame del ligando deve essere *saturabile*; quando tutte le molecole recettoriali hanno legato una molecola di GA non si legheranno più ulteriori molecole di GA e la curva di saturazione tenderà ad un asintoto;
++ il legame del ligando dovrebbe essere ad *alta affinità*: maggiore è l'affinità delle GA per la proteina e più strettamente saranno legate e si dissoceranno meno facilmente;
++ il legame del ligando dovrebbe essere *rapido* e *reversibile*.
+
+Poco dopo l'identificzione di GID1 nel riso, sono stati scoperti in Arabidopsis 3 **ortologhi** (geni presenti in specie diverse che hanno sequenze simi tra loro perchè derivano da un singolo gene del loro antenato comune): GID1a, GID1b e GID1c.
+
+Una volta che la sequenza di un gene, per esempio GID1, è stata determinata in una specie è relativamente facile ricercare nel database dei genomi di altre specie per identificare gli ortologhi.
+
+Tuttavia, in *Arabidopsis* vi è la triplicazione del gene originale GID1 e ciascuno dei 3 geni, GID1a, GID1b e GID1c, codifica per un recettore funzionale di GA. 
+unamutazione in uno solo di questi geni di *Arabidopsis non* viene espressa come una differenza notevole di lunghezza del fusto, ma se tutti e 3 sono mutati, allora il cosiddetto *"triplo mutante"* è un nano estremo, e non sarà neanche in grado di fiorire (è un mutante letale).
+
+(immagine p840)
+
+Lo studio di questi mutanti di riso e Arabidopsis ha permesso di identificare la proteina GID, di studiarla e di cristallizzarla. 
+
+La cristallizzazione di una molecola ci permettono di capire come questa è disposta nello spazio tramite l'utilizzo di diverse lunghezza d'onda (più corta è la radiazione più grande è la risoluzione). Studiando come il fascio di elettroni viene deviato dalla presenza di una proteina ottengo l'immagine di diffrazione della proteina e da questo studio possiamo risalire a com'è fatta la molecola in analisi.
+
+La struttura dei recettori GID presenta un certo numero di eliche che formano una sorta di barile con una cavità interna, e una sorta di ansa. La cavità interna rappresenta il luogo dove vanno a finire le gibberelline legate da GID, e la possibilità di entrare in questa cavità dipende dall'interazione tra i residui amminoacidici e i gruppi presenti sulla proteina.
+
+La GA bioattiva viene ancorata nella tasca centrale all'interno della proteina recettore tramite l'acido carbossilico C-6 della molecola di GA, formando più legami H con due residui di serina alla base della tasca e con una molecola di acqua.
+
+Alcune modifiche della molecola di GA possono ridurre il legame.
+
+La parte di "sopra" di una molecola di GA bioattiva è idrofoba e interagisce con la regione interruttore dell'estensione elicoidale N-terminale di GID1. L'estensione si ripiega sulla parte superiore della GA come un coperchio di chiusura e seppellisce completamente la GA all'interno del recettore.
+
+Una volta che il coperchio è chiuso i residui sulla superficie esterna del coperchio di GID1 sono in grado di interagire con i residui specifici sull'N-terminale di GAI (una proteina DELLA).
+Non c'è interazione diretta tra la GA e la proteina DELLA, ma la GA bioattiva è un **attivatore allosterico** si GID1 che consente il cambiamento conformazionale della forma di GID1 che facilita il suo legame con una proteina DELLA.
+
+Le proteine di *dominio DELLA* sono una sottoclasse della famiglia GRAS di regolatori trascrizionali. Tutte le proteine GRAS hanno un'omologia nel dominio C-terminale, e quelle coinvolte nelle risposte alla GA hanno anche un dominio al N-terminale.
+
+Le proteine DELLA sono regolatori negativi della risposta alla GA.
+
+Le mutazioni che impediscono ai regolatori ngativi della risposta alla GA di agire come regolatori negativi produrranno piante ad alto fusto
+
+Quando GID si chiude espone una parte della sua struttura che si lega a una GRAS e una DELLA. 
+GRAS . In seguito all'interazione di GID1 si attiva il substrato GRAS, il quale può interagire con le proteine F-box (F-box diverse da quelle dell'auxina) e come conseguenza si ha la *poliglutamminazione di GRAS*. In seguito alla poliglutamminazione si ha la rimozione del complesso DELLA-GRAS.
+
+Le proteine DELLA e GRAS sono dei repressori, regolatori negativi della trascrizione, possono interagire con tantissimi fattori e la loro inibizione porta alla rimozione dei repressori della trascrizione.
+
+Auxine e gibberelline rimuovono i fattori di trascrizione.
+
+Le gibberelline hanno un ruolo nella germinazione dei semi delle monocotiledoni. 
+
+Si è studiato il *processo di di-germinazione*. I cereali accumulano come sostanze di riserva nell'endosperma i carboidrati sotto forma di amido. Affinchè il seme germini è necessario *ri-idratarlo* per favorire la ricostruzione delle membrane. Alcuni semi sono *fotoplastici* e hanno bisogno della luce, altri sono *afotoblastici* e germinano sotto terra. 
+I semi delle monocotiledoni sono fotoblastici.
+
+Quando si presentano le giuste condizioni affinchè un seme possa germinare si formano una radichetta e un fusticino. L'embrione allo stato crescente nel seme è il primo che riacquista attività e c'è una struttura chiamata *scutello* che connette l'embrione con l'endosperma (parte che contiene le sostanze di riserva).
+
+Le gibberelline hanno un ruolo fondamentale in questo processo: l'embrione secerne GA$_3$ che ha come bersaglio le cellule di aleurone (riserve proteiche) che contengono i recettori per le gibberelline. In seguito a questa ricezione le gibberelline si legano a GID che si chiude esponendo la regione che lega le proteine DELLA-GRAS. In seguito a questo legame vengono rimossi i repressori GAMYB e si ha la sintesi di amilasi (enzimi che degradano l'amido).
+
+In seguito alla loro sintesi le amilasi vengono secrete nell'endosperma. In questa fase le gibberelline hanno il compito di mobilitare le riserve di glucosio. 
+L'amilosio successivamente viene riassorbito e servirà come riserva di zucchero. 
+Le proteine DELLA-GRAS vengono rimosse e permettono l'espressione dei geni GAMIB che codificano per altri fattori di trascrizione che promuovono geni che codificano per le amilasi. 
+
+DELLA-GRAS sono anche un punto di legame tra le vie di trasduzione della gibberellina e le vie di trasduzione del fitocromo.
 
 ETILENE
 È stato scoperto da giovani ricercatori russi. L’illuminazione una volta era ad opera del gas naturale e si vedeva che piante esposte a queste fonti tendevano a perdere le foglie più rapidamente delle altre perché la componente del gas che generava questo era l’etilene. Quindi ha a che fare con la senescenza della pianta. L’etilene ha anche a che fare con la maturazione dei frutti e da un punto di vista pratico ha a che fare con la conservazione di frutta e verdura e in generale degli alimenti. Se si tratta con Sali di argento la frutta, questa vive più a lungo negli scaffali dei supermercati perché l’argento blocca il recettore per l’etilene.
@@ -564,10 +656,28 @@ La capacità di dare o meno la risposta tripla è stato lo A strumento che ha pe
 L’ETILENE è un gas e attraversa le membrane biologiche molto facilmente. Diffonde fin tanto che trova dei recettori.
 
 
+Il ciclo di Young permette alla 5-adenosil metionina di venire reciclata. Finchè questa non incontra un recettore. Il mutante ETR1 è stato studiato per capire qual è il gene che dà origine a questo fenotipo. Questi sono presenti in arabidopsis. In arabidopsis ci sono almeno cinque recettori per l’etilene che sono organizzati nella stessa maniera. Sono sensori a due componentiossia proteine di membrana che hanno una parte esterna che dà sull’ambiente extracellulare che contiene sensori che sono sensibili per esempio all’osmolarità. Quando il sensore sente il segnale essendo una, istidin chinasi, si autofosforila. Questo dominio è quello chiamato appunto “sensore”. In genere i sensori sono associati ad una seconda proteina che è il ricevente. Il risultato della fosforilazione è la fosforilazione di un’altra proteina a glutammato associata al recettore. Una volta avvenuta la fosforilazione questa proteina si stacca e va ad agire come fattore di trascrizione in maniera diretta. Negli eucarioti si parla sempre di sensori a due componenti ma la èproteina spesso non agisce subito da fattore di trascrizione ma agisce tramite una cascata di fosforilazioni.
+La famiglia di recettori per l’etilene vede in tutti un dominio di legame per l’etilene dove sono presenti ioni rame. (l’ergento impedisce la percezione dell’etilene agendo sul rame). Il rame consente la percezione dell’etilene. 
 
 
+Poi vi è una regione chiamata GAP e poi domini istidin chinasi. Questo nella sottofamiglia 1, nella sottofamiglia 2 sono chiamati domini istidina chinasi degenerati. Il ricevitore invece è fuso con il sensore. I recettori sono ridondanti e se se ne elimina uno agiscono gli altri.
+Legata al recettore vi è la proteina CTR. Se CTR è mutato, e non sente più l’effetto del recettore a monte, non importa che via sia o meno l’etilene perché vi è sempre risposta tripla costitutiva. Quindi il recettore è capace di legare l’etilene posizionato sul reticolo endoplasmatico. Se attivato CTR, che è una chinasi, attiva una cascata di chinasi. La proteina chiave EIN2 è la proteina chiave. Se CTR viene attivato e produce fosforilazioni, inattiva questa proteina EIN2 inattivando dunque la via di espressione dei geni bersaglio della proteina stessa. La proteina EIN2 infatti è il fattore di trascrizione dei geni di risposta all’etilene. Se viene disattivata non si ha la trascrizione. L’etileme spegne delle vie che normalmente sono attive. L’etilene ha il compito di far maturare i frutti climaterici. 
+L’etilene è stato il primo ormone vegetale di cui si è conosciuta la via di traduzione del segnale. 
 
+In una pianta che accumula amido l’accumulo di sostanze è molto facile. In una pianta che accumula lipidi ci deve essere un meccanismo di trasformazione di carboidrati in lipidi. Anche noi ne siamo in grado, ma le piante sono anche capaci di formare carboidrati dai lipidi. Per noi l’unico modo di smaltire i lipidi è di processarli tramite la beta-ossidazione. Ma questa è lenta e difficile da attivare. Negli animali la beta ossidazione però produce solo energia. Un embrione che deve crescere a spese dei lipidi però non può solo bruciarli per produrre energia, ha anche la necessità di costruire nuove proteine e acidi nucleici.
+La via sfruttata dalle piante è la via dell’acido gliossilico. Dipende da organuli che si chiamano gliossisomi ma anche oleosomi. Sono una sorta di goccioline lipidiche coperte da un unico strato di fosfolipidi. Le proteine del monostrato sono chiamate oleosine e permettono l’ingresso anche di altre proteine. Le oleosine permettono alle lipasi di affacciarsi sulla porzione interna e idrolizzare i legami estere tra glicerolo e acidi grassi. 
+Gli acidi grassi attraverso qualche proteina di trasporto in grado di legare acidi grassi, trasportano questi ultimi nei gliossisomi (organuli che fanno parte della famiglia dei perossisomi ma che sono molto più specializzati. Posseggono una parte della via metabolica della beta-ossidazione.) entrando in una parte del ciclo della beta-ossidazione. Il risultato finale di queste prime tappe è la produzione di acetil-CoA. Nei gliossisomi avviene anche una parte del ciclo di krebs. Qui si prende l’acetil-coA che condensato con ossalacetato forma citrato fino ad arrivare ad isocitrato che è substrato di una deidrogenasi e inizia il ciclo. I gliossisomi hanno un enzima importante. L’enzima malato sintasi. Questo condensa l’acido gliossilico e l’acetil-CoA in malato. Vi è un secondo enzima che però hanno solo i gliossisomi. L’socitrato è substrato della isocitrato deidrogenasasi negli animali. Nei gliossisomi si ha isocitrato liasi che produce gliossilato e succinato. Anziché essere decarbossilato viene scisso in due altri composti ossia gliossilato e succinato. Il gliossilato insieme a acetil-coA sono substrato della malato sintasi. Vengono condensati in malato. La beta ossidazione così produce acetil-CoA attraverso un parziale ciclo di krebs fino all’intervento della isocitrato liasi ecc… 
 
+Gli acidi grassi entrano nei gliossisomi e subiscono l’azione dei due enzimi. L’acido grasso attraveros beta ossidazione viene trasformato in acetil-CoA che dierettamente o inderettamente (tramite una parte di cliclo di krebs) danno la formazione di malato.
+Il malato è una molecola che viene trasformata in ossalacetato e poi decarbossilato. Esiste nelle piante la possibilità di formare zuccheri a partire da lipidi. Solo nelle parti delle piante in cui è produzione di acetil-CoA. Nei gliossisomi avviene anche una parte del ciclo di krebs. Qui si prende l’acetil-coA che condensato con ossalacetato forma citrato fino ad arrivare ad isocitrato che è substrato di una deidrogenasi e inizia il ciclo. I gliossisomi hanno un enzima importante. L’enzima malato sintasi. Questo condensa l’acido gliossilico e l’acetil-CoA in malato. Vi è un secondo enzima che però hanno solo i gliossisomi. L’socitrato è substrato della isocitrato deidrogenasasi negli animali. Nei gliossisomi si ha isocitrato liasi che produce gliossilato e succinato. Anziché essere decarbossilato viene scisso in due altri composti ossia gliossilato e succinato. Il gliossilato insieme a acetil-coA sono substrato della malato sintasi. Vengono condensati in malato. La beta ossidazione così produce acetil-CoA attraverso un parziale ciclo di krebs fino all’intervento della isocitrato liasi ecc… possibile accumulare lipidi. Nei gliossisomi delle foglie sono espressi geni diversi in quanto i gliossiomi di un seme in germinazione sono diversi da quelli di una foglia. 
+
+Per gli animali i carboidrati hanno funzione principalmente energetica mentre le piante essendo quasi tutte fotoautotrofe ( eccetto carnivore e parassite) devono produrre sostanze per mezzo della fotosintesi e i carboidrati servono non solo dal punto di vista energetico ma anche strutturale. La pianta deve regolare le due differenti vie. La pianta deve essere in grado di capire se formare amido o saccarosio a partire dai prodotti della fotosintesi. Meccanismi di regolazione di questo tipo esistono per tutti gli incroci di queste vie metaboliche. Il segnale è dato dalla molecola del saccarosio stesso. 
+
+Le piante hanno bisogno di respirare quando non c’è la luce e nei tessuti non fotosintetici. Solo le foglie sono fotosintetiche. Da un punto di vista del metabolismo energetico le radici equivalgono a noi. I mitocondri delle piante sono diversi da quelli animali, e all’interno di una pianata stessa sono diversi a seconda della zona in cui si trovano. Le foglie hanno nei mitocondri la glicina decarbossilasi mentre quelli delle radici hanno ciclo di krebs completo. 
+Nei mitocondri delle piante c’è un enzima ossidasi alternativa che usa gli elettroni dell’ubichinolo per ridurre l’ossigeno ad acqua. In questa reazione non conservatica (che non serve a fare ATP) si produce solo calore. In certi tessuti si produce molto calore. Nella famiglia delle aracee si produce per esempio tanto calore che l’infiorescenza ha una temperatura di circa 15 gradi più elevata rispetto l’Ambiente e l’infiorescenza esplode per rilasciare il polline. 
+
+La glicolisi funziona finchè vi è glucosio da ossidare e NAD+ che può fare da collettore di elettroni. 
+Nelle piante il piruvato può diventare acetaldeide e infine etanolo per fermentazione alcolica oppure si può avere fermentazione lattica. Per riformare NAD+ da NADH. Le piante fermentano in moltissime occasioni. Per esempio le piante acquatiche non hanno a disposizione ossigeno e quindi sono organismi che devono fermentare. 
 
 
 
